@@ -1,0 +1,45 @@
+.div {
+    height:200px;
+    width:900px;
+    border-width:2px;
+    border-style: solid;
+    border-color: black;
+    border-radius:15px;
+}
+.div1 {
+    height:100px;
+    width:900px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black; 
+    border-radius:15px;
+}
+.div2 {
+    height:150px;
+    width:900px;
+    border-width: 2px;
+    border-style: solid;
+    border-color:black; 
+    border-radius:15px;
+}
+
+.div3 {
+    height:200px;
+    width:900px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black; 
+    border-radius:15px;
+}
+.div5 {
+    height:100px;
+    width:900px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black; 
+    border-radius:15px
+}
+#h4 {
+    text-decoration:dotted underline
+    font -weight :normal;
+}

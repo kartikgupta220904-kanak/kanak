@@ -9,4 +9,5 @@ int main()
        fact=fact*i;
     }
     printf("factorial=%d",fact);
+    return 0;
 }
